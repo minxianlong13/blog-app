@@ -13,7 +13,7 @@ const NavBar = () => {
         <Image src="/tiktok.png" alt="Tiktok" width={24} height={24} />
         <Image src="/youtube.png" alt="Facebook" width={24} height={24} />
       </div>
-      <div className={styles.logo}>Xianlong'blog</div>
+      <div className={styles.logo}>DK'blog</div>
       <div className={styles.links}>
         <ThemeToggle />
         <Link href="/" className={styles.link}>
